@@ -2,8 +2,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team;Blue+Team" alt="Cybersecurity Enthusiast | Red Team | Blue Team" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team+%7C+Offensive+Security;Blue+Team+%7C+Defensive+Security" alt="Cybersecurity Enthusiast | Red Team / Offensive Security | Blue Team / Defensive Security" />
 
 <p align="center">
 
